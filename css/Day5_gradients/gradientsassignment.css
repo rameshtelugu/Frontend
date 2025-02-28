@@ -1,0 +1,20 @@
+/* #container1
+{
+    width: 800px;
+    height:800px;
+    background-image: url(../../assets/image/pubg-removebg-preview.png),linear-gradient(45deg,skyblue 0% 2%,red 4% 8%,transparent 10% 100%),linear-gradient(135deg,skyblue 0% 2%,red 4% 8%,transparent 10% 100%),linear-gradient(315deg,skyblue 0% 2%,red 4% 8%,transparent 10% 100%),linear-gradient(225deg,skyblue 0% 2%,red 4% 8%,transparent 10% 100%),radial-gradient(circle at top left,lawngreen 0% 3%,purple 4% 8%,lawngreen 9% 12%,purple 13% 16%,transparent 17% 100%),
+    radial-gradient(circle at top right,lawngreen 10% 13%,purple 13% 16%,lawngreen 16% 19%,purple 19% 22%,transparent 23% 100%),radial-gradient(circle at bottom left,lawngreen 0% 3%,purple 4% 8%,lawngreen 9% 12%,purple 13% 16%,transparent 17% 100%),radial-gradient(circle at bottom right,lawngreen 0% 3%,purple 4% 8%,lawngreen 9% 12%,purple 13% 16%,transparent 17% 100%),conic-gradient(yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow,lightyellow,yellow);
+    background-repeat: no-repeat;
+    background-position: center center;
+} */
+ #container1
+ {
+    width: 720px;
+    height: 720px;
+    background-image:url(../../assets/image/prabhas.jpg),radial-gradient(circle at bottom left,blue 0% 1%, orange 2% 3%,blue 4% 5%,orange 5% 6%,blue 6% 7%,orange 8% 9%,blue 9% 10%,orange 10% 11%, transparent 10% 100%),radial-gradient(circle at top left,blue 0% 1%, orange 2% 3%,blue 4% 5%,orange 5% 6%,blue 6% 7%,orange 8% 9%,blue 9% 10%,orange 10% 11%, transparent 10% 100%),radial-gradient(circle at top right,blue 0% 1%, orange 2% 3%,blue 4% 5%,orange 5% 6%,blue 6% 7%,orange 8% 9%,blue 9% 10%,orange 10% 11%, transparent 10% 100%),radial-gradient(circle at bottom right,blue 0% 1%, orange 2% 3%,blue 4% 5%,orange 5% 6%,blue 6% 7%,orange 8% 9%,blue 9% 10%,orange 10% 11%, transparent 10% 100%),
+    conic-gradient(lawngreen,red,lawngreen,red,lawngreen,red,lawngreen,red,lawngreen,red,lawngreen,red,lawngreen,red);
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+ }

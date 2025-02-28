@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+    
+}
+/* h1{
+    color: rgb(0, 0, 255,);
+} */
+/* h1{
+    color: rgba(0, 0, 255,0.42);  // rgba as per color reduce like it is transperancy.
+} */
+
+/* h1{
+    color: #0000ff8f;            // HEXA using with # symbol        
+} */
+
+ h1
+ {
+    color:hsla(100, 100%, 50%,0.5);
+ }

@@ -1,0 +1,99 @@
+#Grandfather
+{
+    width: 100%;
+    height: 200vh;
+    background-color: orange;
+}
+#Father,#Babai
+{
+    width: 50%;
+    height:100%;
+    background-color: blue;
+    float: left;
+}
+#Babai
+{
+    background-color: red;
+}
+#You,#Sibling1,#Sibling2
+{
+    width: 33%;
+    height: 100%;
+    background-color: green;
+    float: left;
+}
+#Sibling1
+{
+    background-color: yellow;
+}
+#Cousin1,#Cousin2
+{
+    width: 50%;
+    height: 100%;
+    background-color: blueviolet;
+    float: left;
+}
+#Cousin2
+{
+    background-color: bisque;
+}
+
+
+/* child selector --> it will access the greater than symbol */
+
+/* #Grandfather>#Father
+{
+    background-color: lightcoral;
+} */
+
+/* #Father>#You
+{
+    background-color: aqua;
+} */
+  
+/* #Babai>#you
+{
+    background-color: olive; //not possible because babai does not access you
+} */
+
+/* #Grandfather>#You
+{
+    background-color: darkkhaki; //in this child selector grandfather doesn`t acces the you,sibling1,sibling2
+} */
+
+/* ------------------------------------------------------------------------------- */
+
+
+/* Descendent selector --> it will access to seperated by Space */ 
+
+/* #Grandfather #You
+{
+    background-color:black ; // b/w grandfather and you as separated by space so it will possible on descendent selector
+} */
+
+/* #Father #Sibling1
+{
+    background-color: brown;
+} */
+
+/* #Father #Cousin1
+{
+    background-color: aquamarine; // it will not possible bcz Father does not have access to Cousin
+} */
+
+/* #You~#Sibling2{
+    background-color: aqua;
+} */
+
+/* 
+div
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 2px solid black;
+}
+#sib1~#sib5
+{
+    background-color: blue;
+} */

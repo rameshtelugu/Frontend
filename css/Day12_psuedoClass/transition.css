@@ -1,0 +1,23 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    /* transition-property: background-color,width,height,border-radius;
+    transition-duration: 1s,0.5s,1500ms,3s; */
+    transition-property:width,height ;
+    transition-duration: 1s,1s;
+    transition-delay: 1s,0s;
+   
+   
+}
+/* div:hover{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    
+} */
+ div:hover{
+    width: 500px;
+    height: 500px;
+ }

@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+div{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+img{
+    width: 150%;
+    height: 130%;
+}
+
+
+p{
+    height: 200px;
+    background-color: yellow;
+    text-align: justify;
+    text-indent: 60px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(75deg, darkblue,skyblue);
+    
+}
+fieldset
+{
+    width: 50%;
+    height: 400px;
+    margin-top: 10%;
+    margin-left: 30%;
+    border: 10px groove black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+    background-image:url(../../assets/image/charminar.jpg);
+    background-size: 30% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+fieldset:hover{
+    background-position: left center,center;
+    background-color:yellow;
+}
+legend{
+    font-size: 30px;
+    /* background-color: white; */
+    border: 10px groove royalblue;
+    letter-spacing: 3px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0.8px 0.8px 0.8px black;
+    border-radius: 10px;
+}
+fieldset:hover legend
+{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    text-align: right;
+    padding-right: 20%;
+    color: red;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: transparent;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    width: 50%;
+    float: right;
+    padding-right: 25px;
+    color: transparent;
+}
+fieldset:hover h1{
+    color: royalblue;
+    text-shadow: 1px 1px 1px black;
+}
+fieldset:hover p{
+    color: black;
+}

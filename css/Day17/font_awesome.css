@@ -1,0 +1,56 @@
+/* #dog1
+{
+    font-size: 50px;
+    margin-top: 10%;
+    margin-left: 30%;
+    color: red;
+
+}
+#dog2
+{
+    font-size: 70px;
+    color: blanchedalmond;    /* go to search in google for font awesome and copy the icon linkand also search another link as external css file so search font awesome cdjns and copy the first file*/
+/*}*/
+
+/* img{
+    width: 500px;
+    height: 500px;
+    margin-top: 10%;
+    margin-left: 30%;
+    clip-path: polygon(0 0, 89% 0, 57% 55%, 100% 100%, 0 100%);
+
+
+} */
+ #container1
+ {
+    width: 900px;
+    height: 700px;
+    float: left;
+    background-image: url(../../assets/image/car\ image.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: left;
+    clip-path: polygon(100% 0, 100% 0, 76% 94%, 0 100%, 0 0);
+ }
+ 
+ #container2,#h1{
+    padding-top: 10%;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+
+ }
+ #container2,#p{
+    
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    text-align: justify;
+    letter-spacing: 0.1vw;
+    word-spacing: 0.2vw;
+    line-height: 2vw;
+
+ }
+ 

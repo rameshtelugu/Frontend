@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+/* h1{
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 7px;
+
+}
+p{
+    text-align: justify;
+    text-indent: 100px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 20px;
+} */
+ h1{
+    text-decoration: underline red wavy;
+    /* text-decoration: overline; */
+    text-align: center;
+    /* text-decoration: line-through red double 2px; */
+    /* text-decoration: line-through red dashed 2px; */
+    /* text-decoration: line-through red dotted 2px; */
+    /* text-decoration: line-through red solid 2px; */
+    /* text-decoration: line-through red wavy 2px; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    /* text-transform: capitalize;
+    font-size: 100px;
+    font-weight: lighter;
+    font-style: italic; */
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+  
+  
+ }
+ a{
+    text-decoration: none;
+    color: red;
+   font-size: 30px;
+ }
+ p{
+    /* font-size: 30px; */
+    /* font-style: oblique;--->its like same as "itlalic"
+    font-weight: bold; */
+    /* font-style: normal;
+    font-weight: bold; */
+    font-family: "Sixtyfour Convergence", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+ }

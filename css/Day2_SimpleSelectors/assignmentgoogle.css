@@ -1,0 +1,46 @@
+/* small_container{
+    width: 400px;
+    height: 400px;
+}
+col_blue
+{
+    color: royalblue;
+}
+float_left
+{
+    float: left;
+} */
+ .blue{
+    color: blue;
+
+    
+ }
+   
+ 
+ .green{
+    color: green;
+ }
+ .yellow{
+    color: yellow;
+ }
+ .red{
+    color: red;
+ }
+ .fl_left{
+    float: left;
+ }
+ .fontsize{
+    font-size:200px;
+ }
+ .margin{
+    margin-left: 650px;
+ }
+ .bg_col
+ {
+    background-color: black;
+ }
+ 
+ 
+
+
+ 

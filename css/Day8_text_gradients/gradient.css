@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 3px;
+    font-size: 40px;
+    background-image: linear-gradient(25deg, red,blue);
+    color: transparent;
+    -webkit-background-clip: text;
+}

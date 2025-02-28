@@ -1,0 +1,45 @@
+/* #container
+{
+    width:400px;
+    height: 400px;
+    /* background-image: linear-gradient(70deg, red,lawngreen); */
+    /* background-image: linear-gradient(30deg, red 0% 20%,orange 20% 40%,purple 40% 70%,lawngreen 70% 80%,yellow 80% 90%); */
+/* } */ 
+
+#container1
+{
+    width: 200px;
+    height: 320px;
+    background-image: url(../../assets/image/prabhas.jpg);
+    background-size: 100% 100%;
+}
+/* #container2
+{
+    width: 200px;
+    height: 320px;
+    background-color:red;
+} */
+
+ /* #container1{
+    float: left;
+    width: 250px;
+    height: 300px;
+    background-image: radial-gradient(circle at center right, red, lawngreen,purple ,lawngreen,purple,lawngreen,purple,red,lawngreen,red,purple,lawngreen,purple,lawngreen,purple,red,lawngreen,red,purple,red,lawngreen,purple,lawngreen,red,lawngreen,purple,lawngreen,red,purple,lawngreen,red,lawngreen,purple,lawngreen,red,purple,red,purple,red,purple);
+}  */
+
+/* 
+#container2
+{
+    float: left;
+    width: 250px;
+    height: 300px;
+    background-image: radial-gradient(circle at left center, red 0% 20%,skyblue 20% 100%);
+}  */
+
+/* #container1
+{
+    width: 250px;
+    height: 300px;
+    background-image: conic-gradient(red,white);
+} */
+

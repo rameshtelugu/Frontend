@@ -1,0 +1,46 @@
+/* input:checked{
+    width: 100px;
+    height: 200px;
+}
+input:disabled{
+    background-color: aqua;
+}
+input:enabled{
+    background-color: red;
+} */
+
+/* h1,p{
+    width: 100%;
+    height: 120px;
+}
+h1:empty{
+    background-color: orange;
+}
+p:empty{
+    background-color: blue;
+}
+span:empty{
+    width: 200px;
+    height: 200px;
+    background-color: red;  if you want to see the span tag apply display:block;
+} */
+ /* input:invalid{
+    border: 1px solid red;
+    outline: 1px solid red;
+ }
+ input:valid{
+    border: 1px solid green;
+    outline: 1px solid green;
+ } */
+  h1:first-child{
+        color: red;
+  }
+  h1:last-child{
+    color: blue;
+  }
+  input:read-only{
+    background-color: blue;
+  }
+  input:read-write{
+    background-color: orange;
+  }

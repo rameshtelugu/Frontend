@@ -1,0 +1,102 @@
+/* a:link{
+    color: aqua;
+    background-color: darkblue;
+    border-radius: 5px;
+    text-decoration: none;
+}
+a:visited{
+     color: orange;
+     background-color: brown;
+     border-radius: 10%;
+
+}
+a:hover{
+     color: yellow;
+     background-color: black;
+     border-radius: 10%;
+}
+a:active{
+    color: yellowgreen;
+    background-color: darkgreen;
+    border-radius: 0%;
+} */
+ /* #container{
+    width: 500px;
+    height: 500px;
+    background-image: url(../../assets/image/Screenshot\ 2024-06-15\ 134714.png);
+    background-size: 100% 100%;
+    margin-top: 10%;
+    margin-left: 35%;
+    box-shadow: 10px 10px 10px black;
+
+ }
+ #container:hover{
+    border-radius: 100%;
+    box-shadow: 10px 10px 10px black,
+    80px 80px 0px red,
+    -60px 120px 0px yellow,
+    120px -80px 0px royalblue,
+    -150px -60px 0px lawngreen;
+    background-image: url(../../assets/image/pawan.jpeg);
+ } */
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+ body{
+    background-image: linear-gradient(75deg darkblue,skyblue);
+    background-size: 100% 100vh;
+ }
+ fieldset{
+    width: 50%;
+    height: 250px;
+    margin-top: 5%;
+    margin-left: 30%;
+    border: 10px groove white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-image: url(../../assets/image/charminar.jpg),radial-gradient(circle at top left,orangered,yellow);
+    background-size: 35% 100%;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+fieldset:hover{
+    background-position: left center,center;
+}
+legend{
+    font-size: 30px;
+    background-color: white;
+    border: 10px groove,royalblue;
+    letter-spacing: 5px;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px 0.5px black;
+    border-radius: 10px;
+}
+fieldset:hover legend{
+    text-align: center;
+    /* box-shadow: 10px 10px 0px white,-10px -10px 0px black; */
+}
+h1{
+    text-align: right;
+    padding-right: 30%;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: transparent;
+}
+p{
+    width: 50%;
+    font-size: 12px;
+    text-align: justify;
+    float: right;
+    padding-right: 10%;
+    color: transparent;
+}
+fieldset:hover h1{
+    color:royalblue;
+    text-shadow: 1px 1px 1px black;
+}
+fieldset:hover p{
+    color: black;
+}

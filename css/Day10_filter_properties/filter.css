@@ -1,0 +1,28 @@
+/* img{
+    width: 500px; */
+    /* filter: blur(10px); */
+    /* filter: brightness(250%); */ 
+    /* filter: contrast(1000%); */
+    /* filter: grayscale(70%); */
+    /* filter: hue-rotate(360deg); */
+    /* filter: invert(100%); */
+    /* filter: opacity(100%); */
+    /* filter: saturate(1000%); */
+    /* filter: sepia(150%); */
+    /* filter: drop-shadow(5px 5px 0px red),drop-shadow(5px 5px 2px yellow); */
+    /* box-shadow: 5px 5px 5px black; */
+/* } */
+img
+{
+    width: 240px;
+    cursor: move;
+}
+h1
+{
+    /* cursor: zoom-in; */
+    cursor: text;
+}
+a{
+    /* cursor: zoom-out; */
+    cursor: pointer;
+}

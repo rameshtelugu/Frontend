@@ -1,0 +1,48 @@
+/* body{
+    background-color: orange;
+    background-image: url(../);
+}
+input{
+    /* background-color: transparent; */
+    /* background-color: rgb(220, 120, 30);} */
+
+    /* #container
+    {
+        width: 400px;
+        height: 300px;
+        /* background-size: 100px 100px; */
+        /* background-image: url(../../assets/image/pubg-removebg-preview.png); */
+       /* no-repeat,repeat-x,repeat-y,repeat */
+        /* background-repeat: no-repeat; */
+    /* } */
+    
+    /* body{
+        width: 100%;
+        height: 100vh;
+        background-image: url(../../assets/image/pawan.jpeg);
+        background-size: 300px;
+        background-repeat: no-repeat;
+        background-position: 230px 200px ;
+      
+    } */
+
+    body
+    {
+        width: 100%;
+        height: 5000px;
+        background-image: url(../../assets/image/sun.png.png),url(../../assets/image/earth.png.png),url(../../assets/image/star.jpg);
+        background-size: 500px,200px,100% 5000px;
+        /* background attachement:scroll,fixed */
+        background-attachment: fixed,scroll,scroll;
+        background-repeat: no-repeat,no-repeat,repeat;
+        background-position: -250px -10px, center left, center;
+    }
+    marquee
+    {
+      
+        height:5000px;
+    }
+    img{
+        width: 120px;
+        float: right;
+    }

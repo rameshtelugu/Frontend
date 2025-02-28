@@ -1,0 +1,32 @@
+h1
+{
+    font-size: 60px;
+    margin-top: 20%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    transition:transform 3s;
+    color: orangered;
+}
+h1:hover{
+    /* transform: rotateZ(-45deg); */
+    /* transform: rotateX(360deg); */
+    /* transform: rotateY(360deg); */
+    /* transform: rotate(360deg) rotateY(360deg) rotateX(360deg) rotateZ(360deg); */
+
+    /* transform: scale(0.5); */
+    /* transform: scaleX(0.2); */
+    /* transform: scaleY(0.3); */
+    /* transform: scale(2); */
+    /* transform: translateX(300px); */
+    transform: translateX(300px) translateY(-300px);
+    /* transform: translate(200px,500px); */
+/* 
+    transform: skewX(45deg);
+    transform: skewY(45deg); */
+    /* transform: skew(360deg,360deg); */
+    
+    
+    
+
+}

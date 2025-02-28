@@ -1,0 +1,38 @@
+/* .name{
+    color: blue;
+    background-color: aqua;
+} */
+ .small_container{
+    width: 120px;
+    height: 120px;
+ }
+ .med_container{
+    width: 300px;
+    height: 300px;
+ }
+ .big_container{
+    width: 500px;
+    height: 500px;
+ }
+ .bg_red{
+    background-color: red;
+ }
+ .bg_blue{
+    background-color: blue;
+ }
+ .bg_green{
+    background-color: green;
+ }
+ .col_yellow{
+    color: yellow;
+ }
+ .col_orange{
+    color: orange;
+ }
+ .fl_left{
+    float: left;
+ }
+ .fl_right{
+    float: right;
+ }
+ 

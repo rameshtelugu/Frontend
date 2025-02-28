@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 100%;
+    height: 800px;
+    background-color: bisque;
+}
+img{
+    margin-top: 2%;
+    width: 120px;
+    transition: margin-left 1s linear;
+}
+
+#container:hover img{
+    margin-left: 90%;
+}
+#car{
+
+    transition-timing-function: ease;
+}
+#bike{
+    transition-timing-function: ease-in;
+}
+#truck{
+    transition-timing-function: ease-out;
+}
+#mj{
+    transition-timing-function: ease-in-out;
+}
+#aeroplane{
+    transition-timing-function: linear;
+}
+
